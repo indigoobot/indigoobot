@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @indigoobot
+- 👀 I’m interested in [indigo](https://indigo.online)
+- 🌱 I’m currently learning ReactJS, Typescript, NodeJS
+- 💞️ I’m looking to collaborate on [indigo GitHub](https://github.com/indigo-online)
+- 📫 How to reach me sales@indigo.online
